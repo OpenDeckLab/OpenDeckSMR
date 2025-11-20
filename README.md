@@ -8,7 +8,7 @@ Currently, the software functions only in Linux environments; a windows version 
 
 ## Installation
 ```bash
-git clone TBD OpenDeckSMR
+git clone https://github.com/OpenDeckLab/OpenDeckSMR.git OpenDeckSMR
 cd OpenDeckSMR
 pip install -e .
 ```
