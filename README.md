@@ -33,7 +33,7 @@ The component maps used for this model have been kindly provided by:
 Special thanks to Dr. Kurzke for his advice with regards to the choice of the appropriate component maps.
 
 ## License
-License Creative Commons CC-BY-NC-ND
+License Creative Commons [CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
 (Attribution, Non Commercial Use, No modification)
 
 Don't forget to check the [Disclaimer](DISCLAIMER.md)
