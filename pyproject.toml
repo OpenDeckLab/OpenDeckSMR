@@ -1,0 +1,33 @@
+
+
+
+[project]
+name="odsmr"
+version="0.1"
+description = "package to run open deck smr"
+license = {text = "License Creative Commons CC-BY-NC-ND"}
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Science/Research",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+]
+requires-python = ">=3.8"
+
+dependencies = [
+    "plotly",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "scipy",
+]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
