@@ -16,6 +16,9 @@ pip install -e .
 ## Usage
 Please check the [documentation](doc/doc.md) and example notebooks for more information ([StepByStep](notebooks/Demo_StepByStep.ipynb), [DemoGeneration1](notebooks/Demo_1forall_generation.ipynb), [DemoGeneration2](notebooks/Demo_1for1_generation.ipynb)).
 
+## Target users and applications
+OpenDeckSMR is designed for researchers, engineers, and students working in the fields of health monitoring and digital twin development. The simulator provides a flexible code for generating synthetic engine measurement data under various flight conditions and health states, making it particularly useful for algorithm development, validation, and benchmarking in areas such as fault detection, prognostics, and condition-based maintenance. The expected outcome is to enable users to experiment with realistic datasets without requiring access to proprietary engine models or costly test benches, fostering innovation and collaboration in the aerospace community.
+
 ## Support
 Please create an issue in this repository.
 
