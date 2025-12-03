@@ -1,5 +1,5 @@
 
-citation_content = """cff-version: 1.2.0
+cff-version: 1.2.0
 message: "Si vous utilisez ce logiciel, veuillez citer comme indiqué ci-dessous."
 title: "OpenDeckSMR"
 authors:
@@ -20,11 +20,10 @@ authors:
     affiliation: "Safran SA / Safran Tech"
   - family-names: "Thepaut"
     given-names: "Solene"
-    affiliation: "Safran SA / Safran Tech"
+    affiliation    affiliation: "Safran SA / Safran Tech"
   - family-names: "Vu"
     given-names: "Don Quan"
     affiliation: "Safran SA / Safran Tech"
 version: "0.1"
 date-released: "2025-11-24"
 url: "https://github.com/OpenDeckLab/OpenDeckSMR"
-"""
