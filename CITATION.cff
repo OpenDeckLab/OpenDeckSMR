@@ -1,6 +1,6 @@
 
 cff-version: 1.2.0
-message: "Si vous utilisez ce logiciel, veuillez citer comme indiqué ci-dessous."
+message: "Please cite the repository as follow:"
 title: "OpenDeckSMR"
 authors:
   - family-names: "Psaropoulos"
