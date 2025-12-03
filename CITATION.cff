@@ -1,6 +1,5 @@
-
 cff-version: 1.2.0
-message: "Please cite the repository as follow:"
+message: "Please cite the repository as follows:"
 title: "OpenDeckSMR"
 authors:
   - family-names: "Psaropoulos"
