@@ -34,7 +34,7 @@
     }
   ],
   "version": "0.1",
-  "license": "CC-BY-NC-ND-4.0",
+  "license_id": "CC-BY-NC-ND-4.0",
   "access_right": "open",
   "keywords": [
     "aircraft engine simulator",
@@ -51,3 +51,4 @@
       "scheme": "url"
     }
    ]
+}
