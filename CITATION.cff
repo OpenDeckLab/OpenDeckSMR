@@ -1,29 +1,32 @@
+---
 cff-version: 1.2.0
 message: "Please cite the repository as follows:"
-title: "OpenDeckSMR"
+title: OpenDeckSMR
 authors:
-  - family-names: "Psaropoulos"
-    given-names: "Michail"
-    affiliation: "Aristotle University of Thessaloniki / Laboratory of Fluid Mechanics and Turbomachinery"
-  - family-names: "Gkoutzamanis"
-    given-names: "Vasilis"
-    affiliation: "Aristotle University of Thessaloniki / Laboratory of Fluid Mechanics and Turbomachinery"
-  - family-names: "Kalfas"
-    given-names: "Anestis I."
-    affiliation: "Aristotle University of Thessaloniki / Laboratory of Fluid Mechanics and Turbomachinery"
-  - family-names: "Giannakakis"
-    given-names: "Panagiotis"
-    affiliation: "Safran SA / Safran Tech"
-  - family-names: "Razakarivony"
-    given-names: "Sebastien"
-    affiliation: "Safran SA / Safran Tech"
-  - family-names: "Thepaut"
-    given-names: "Solene"
-    affiliation: "Safran SA / Safran Tech"
-  - family-names: "Vu"
-    given-names: "Don Quan"
-    affiliation: "Safran SA / Safran Tech"
+  - family-names: Psaropoulos
+    given-names: Michail
+    affiliation: Aristotle University of Thessaloniki / Laboratory of Fluid
+      Mechanics and Turbomachinery
+  - family-names: Gkoutzamanis
+    given-names: Vasilis
+    affiliation: Aristotle University of Thessaloniki / Laboratory of Fluid
+      Mechanics and Turbomachinery
+  - family-names: Kalfas
+    given-names: Anestis I.
+    affiliation: Aristotle University of Thessaloniki / Laboratory of Fluid
+      Mechanics and Turbomachinery
+  - family-names: Giannakakis
+    given-names: Panagiotis
+    affiliation: Safran SA / Safran Tech
+  - family-names: Razakarivony
+    given-names: Sebastien
+    affiliation: Safran SA / Safran Tech
+  - family-names: Thepaut
+    given-names: Solene
+    affiliation: Safran SA / Safran Tech
+  - family-names: Vu
+    given-names: Don Quan
+    affiliation: Safran SA / Safran Tech
 version: "0.1"
-date-released: "2025-11-24"
-license: "CC-BY-NC-ND-4.0"
-repository-code: "https://github.com/OpenDeckLab/OpenDeckSMR"
+date-released: 2025-11-24
+url: https://github.com/OpenDeckLab/OpenDeckSMR
