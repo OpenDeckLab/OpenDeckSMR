@@ -43,3 +43,7 @@ Don't forget to check the [Disclaimer](DISCLAIMER.md)
 
 ## Project status
 Alpha version.
+
+## How to cite us ?
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17804895.svg)](https://doi.org/10.5281/zenodo.17804895)
+
