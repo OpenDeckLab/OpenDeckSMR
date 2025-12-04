@@ -11,6 +11,13 @@ Currently, the software functions only in Linux environments; a windows version 
 git clone https://github.com/OpenDeckLab/OpenDeckSMR.git OpenDeckSMR
 cd OpenDeckSMR
 pip install -e .
+cd src/odsmr/bin/DeckSMR/
+chmod +rwx *
+```
+
+You might need some fortran library. In that case, please execute the following command:
+```bash
+sudo apt-get install libgfortran5
 ```
 
 ## Usage
