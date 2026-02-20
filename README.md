@@ -53,5 +53,6 @@ Alpha version.
 
 ## How to cite us ?
 Psaropoulos, M., Gkoutzamanis, V., Kalfas, A. I., Giannakakis, P., Razakarivony, S., Thepaut, S., & Vu, D. Q. (2025). OpenDeckSMR (Version 0.1) [Computer software]. https://github.com/OpenDeckLab/OpenDeckSMR
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17804895.svg)](https://doi.org/10.5281/zenodo.17804895)
 
