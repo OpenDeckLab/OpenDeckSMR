@@ -1,6 +1,6 @@
 ---
 cff-version: 1.2.0
-message: "Please cite the repository as follows:"
+message: "Please cite the repository as follows: Psaropoulos, M., Gkoutzamanis, V., Kalfas, A. I., Giannakakis, P., Razakarivony, S., Thepaut, S., & Vu, D. Q. (2025). OpenDeckSMR (Version 0.1) [Computer software]. https://github.com/OpenDeckLab/OpenDeckSMR"
 title: OpenDeckSMR
 authors:
   - family-names: Psaropoulos
