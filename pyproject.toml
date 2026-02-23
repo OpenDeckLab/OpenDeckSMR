@@ -3,7 +3,7 @@
 
 [project]
 name="odsmr"
-version="0.1"
+version="0.1.2"
 description = "package to run open deck smr"
 license = {text = "License Creative Commons CC-BY-NC-ND"}
 classifiers = [
